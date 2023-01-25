@@ -29,7 +29,6 @@ Your users should be able to:
   - The Name, Email Address or Your Message fields are empty should show "Can't be empty"
   - The Email Address is not formatted correctly should show "Please use a valid email address"
 
-
 ### The challenge
 
 Users should be able to:
@@ -75,4 +74,4 @@ Principally confirming my skills and review basics:
 
 ## Author
 
-- [Himanshu Mehra]
+- Himanshu Mehra
